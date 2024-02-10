@@ -11,7 +11,7 @@
     "coin_details": {
         "name": "Polygon",
         "symbol": "MATIC",
-        "logo": "logo/polygon.png",
+        "logo": "Web3Project/polygon.png",
         "max_supply": "∞"
     },
     "chain_details": [
